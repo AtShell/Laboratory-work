@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(338,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(383,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(473,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(474,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(218,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(217): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(259): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(225): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\PC\Desktop\TZ2\Project1\graph.h(43): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Project1.vcxproj -> C:\Users\PC\Desktop\TZ2\Project1\Debug\Project1.exe
